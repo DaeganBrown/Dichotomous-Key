@@ -12,3 +12,9 @@
 
 // Local Includes 
 #include "key.cpp"
+
+
+int main() 
+{
+    return 0;
+}

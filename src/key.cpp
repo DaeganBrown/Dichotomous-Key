@@ -13,3 +13,19 @@
 // Local Includes 
 #include "key.h"
 
+Key::Key()
+{
+    this->yes = nullptr;
+    this->no = nullptr;
+    this->Question = "New Key Question";
+}
+
+Key::Key(std::string Question)
+{
+
+}
+
+Key::Key(bool direction, std::string Question)
+{
+    
+}
